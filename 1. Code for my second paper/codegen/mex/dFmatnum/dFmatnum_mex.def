@@ -1,0 +1,9 @@
+LIBRARY dFmatnum_mex.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+dFmatnum_initialize
+dFmatnum_terminate
+dFmatnum_atexit
+dFmatnum

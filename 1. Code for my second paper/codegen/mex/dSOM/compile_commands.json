@@ -1,0 +1,74 @@
+[
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   dSOM_data.c /Fobuild\\win64\\dSOM_data.obj",
+    "file": "dSOM_data.c",
+    "output": "build/win64/dSOM_data.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   rt_nonfinite.c /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   dSOM_initialize.c /Fobuild\\win64\\dSOM_initialize.obj",
+    "file": "dSOM_initialize.c",
+    "output": "build/win64/dSOM_initialize.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   dSOM_terminate.c /Fobuild\\win64\\dSOM_terminate.obj",
+    "file": "dSOM_terminate.c",
+    "output": "build/win64/dSOM_terminate.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   dSOM.c /Fobuild\\win64\\dSOM.obj",
+    "file": "dSOM.c",
+    "output": "build/win64/dSOM.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   mpower.c /Fobuild\\win64\\mpower.obj",
+    "file": "mpower.c",
+    "output": "build/win64/mpower.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   warning.c /Fobuild\\win64\\warning.obj",
+    "file": "warning.c",
+    "output": "build/win64/warning.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   mtimes.c /Fobuild\\win64\\mtimes.obj",
+    "file": "mtimes.c",
+    "output": "build/win64/mtimes.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   interface\\_coder_dSOM_api.c /Fobuild\\win64\\_coder_dSOM_api.obj",
+    "file": "interface/_coder_dSOM_api.c",
+    "output": "build/win64/_coder_dSOM_api.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   interface\\_coder_dSOM_mex.c /Fobuild\\win64\\_coder_dSOM_mex.obj",
+    "file": "interface/_coder_dSOM_mex.c",
+    "output": "build/win64/_coder_dSOM_mex.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   interface\\_coder_dSOM_info.c /Fobuild\\win64\\_coder_dSOM_info.obj",
+    "file": "interface/_coder_dSOM_info.c",
+    "output": "build/win64/_coder_dSOM_info.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\dSOM",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=dSOM_mex   \"E:\\Program Files\\MATLAB\\R2024b\\extern\\version\\c_mexapi_version.c\" /Fobuild\\win64\\c_mexapi_version.obj",
+    "file": "E:/Program Files/MATLAB/R2024b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.obj"
+  }
+]

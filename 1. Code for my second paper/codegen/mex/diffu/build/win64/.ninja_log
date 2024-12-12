@@ -1,0 +1,12 @@
+# ninja log v5
+11	192	7498945611389131	build/win64/diffu_data.obj	74b276e433818b6b
+23	199	7498945611409131	build/win64/c_mexapi_version.obj	99ecc49b5ff202ad
+14	202	7498945611419136	build/win64/mtimes.obj	da16edf8841c2c08
+0	203	7498945611419136	build/win64/rt_nonfinite.obj	b959918f8fa062bc
+17	205	7498945611469127	build/win64/_coder_diffu_mex.obj	742af6a1a9322f9
+9	209	7498945611529108	build/win64/diffu_terminate.obj	5b15da9d4bdb2e0a
+3	213	7498945611589144	build/win64/diffu_initialize.obj	c1dab1c82f016f44
+19	213	7498945611589144	build/win64/_coder_diffu_info.obj	f9fffbe17110fb8e
+25	266	7498945612126475	build/win64/_coder_diffu_api.obj	7a8b1adddb093a
+6	286	7498945612328352	build/win64/diffu.obj	520875a324481e97
+286	320	7498945612647780	diffu_mex.mexw64	3712b57b2d055844

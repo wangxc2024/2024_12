@@ -1,0 +1,68 @@
+[
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   SOMi_data.c /Fobuild\\win64\\SOMi_data.obj",
+    "file": "SOMi_data.c",
+    "output": "build/win64/SOMi_data.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   rt_nonfinite.c /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   SOMi_initialize.c /Fobuild\\win64\\SOMi_initialize.obj",
+    "file": "SOMi_initialize.c",
+    "output": "build/win64/SOMi_initialize.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   SOMi_terminate.c /Fobuild\\win64\\SOMi_terminate.obj",
+    "file": "SOMi_terminate.c",
+    "output": "build/win64/SOMi_terminate.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   SOMi.c /Fobuild\\win64\\SOMi.obj",
+    "file": "SOMi.c",
+    "output": "build/win64/SOMi.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   warning.c /Fobuild\\win64\\warning.obj",
+    "file": "warning.c",
+    "output": "build/win64/warning.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   interface\\_coder_SOMi_api.c /Fobuild\\win64\\_coder_SOMi_api.obj",
+    "file": "interface/_coder_SOMi_api.c",
+    "output": "build/win64/_coder_SOMi_api.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   interface\\_coder_SOMi_mex.c /Fobuild\\win64\\_coder_SOMi_mex.obj",
+    "file": "interface/_coder_SOMi_mex.c",
+    "output": "build/win64/_coder_SOMi_mex.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   mrdivide_helper.c /Fobuild\\win64\\mrdivide_helper.obj",
+    "file": "mrdivide_helper.c",
+    "output": "build/win64/mrdivide_helper.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   interface\\_coder_SOMi_info.c /Fobuild\\win64\\_coder_SOMi_info.obj",
+    "file": "interface/_coder_SOMi_info.c",
+    "output": "build/win64/_coder_SOMi_info.obj"
+  },
+  {
+    "directory": "E:\\WXC\\WM\\mat\\codegen\\mex\\SOMi",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"E:\\WXC\\WM\\mat\" /I \".\\interface\" /I \"E:\\Program Files\\MATLAB\\R2024b\\extern\\include\" /I \".\" -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=SOMi_mex   \"E:\\Program Files\\MATLAB\\R2024b\\extern\\version\\c_mexapi_version.c\" /Fobuild\\win64\\c_mexapi_version.obj",
+    "file": "E:/Program Files/MATLAB/R2024b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.obj"
+  }
+]

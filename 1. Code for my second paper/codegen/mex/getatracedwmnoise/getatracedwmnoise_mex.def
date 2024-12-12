@@ -1,0 +1,12 @@
+LIBRARY getatracedwmnoise_mex.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+getatracedwmnoise_initialize
+getatracedwmnoise_terminate
+getatracedwmnoise_atexit
+getatracedwmnoise
+emxEnsureCapacity_real_T
+emxInit_real_T
+emxFree_real_T

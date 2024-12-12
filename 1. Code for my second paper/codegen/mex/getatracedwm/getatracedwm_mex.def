@@ -1,0 +1,12 @@
+LIBRARY getatracedwm_mex.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+getatracedwm_initialize
+getatracedwm_terminate
+getatracedwm_atexit
+getatracedwm
+emxEnsureCapacity_real_T
+emxInit_real_T
+emxFree_real_T

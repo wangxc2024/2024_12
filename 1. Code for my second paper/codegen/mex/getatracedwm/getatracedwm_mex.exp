@@ -1,0 +1,11 @@
+getatracedwm_mex.mexw64
+emlrtMexFcnProperties		emlrtMexFcnProperties
+emxEnsureCapacity_real_T		emxEnsureCapacity_real_T
+emxFree_real_T		emxFree_real_T
+emxInit_real_T		emxInit_real_T
+getatracedwm		getatracedwm
+getatracedwm_atexit		getatracedwm_atexit
+getatracedwm_initialize		getatracedwm_initialize
+getatracedwm_terminate		getatracedwm_terminate
+mexFunction		mexFunction
+mexfilerequiredapiversion		mexfilerequiredapiversion

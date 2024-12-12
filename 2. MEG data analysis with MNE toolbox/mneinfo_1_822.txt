@@ -1,0 +1,28 @@
+<Info | 23 non-empty values
+ acq_pars: ACQch001 110113 ACQch002 110112 ACQch003 110111 ACQch004 110122 ...
+ bads: []
+ ch_names: MEG0113, MEG0112, MEG0111, MEG0122, MEG0123, MEG0121, MEG0132, ...
+ chs: 204 Gradiometers, 102 Magnetometers, 17 Stimulus, 2 EOG, 1 ECG, 13 misc, 9 CHPI
+ custom_ref_applied: False
+ description: (meg) Vectorview system at Cambridge
+ dev_head_t: MEG device -> head transform
+ dig: 73 items (3 Cardinal, 5 HPI, 65 Extra)
+ events: 1 item (list)
+ experimenter: MEG
+ file_id: 4 items (dict)
+ highpass: 0.0 Hz
+ hpi_meas: 1 item (list)
+ hpi_results: 1 item (list)
+ hpi_subsystem: 2 items (dict)
+ line_freq: 50.0
+ lowpass: 330.0 Hz
+ meas_date: 2012-05-31 13:27:48 UTC
+ meas_id: 4 items (dict)
+ nchan: 348
+ proc_history: 3 items (list)
+ proj_id: 1 item (ndarray)
+ proj_name: camcan
+ projs: []
+ sfreq: 1000.0 Hz
+ subject_info: 6 items (dict)
+>

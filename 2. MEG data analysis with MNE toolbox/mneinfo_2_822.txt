@@ -1,0 +1,21 @@
+<Info | 16 non-empty values
+ bads: []
+ ch_names: UDIO001, UPPT001, UTRG001, SCLK01-177, BG1-4408, BG2-4408, ...
+ chs: 3 Stimulus, 32 misc, 26 Reference Magnetometers, 274 Magnetometers, 5 EEG
+ comps: 5 items (list)
+ ctf_head_t: CTF/4D/KIT head -> head transform
+ custom_ref_applied: False
+ dev_ctf_t: MEG device -> CTF/4D/KIT head transform
+ dev_head_t: MEG device -> head transform
+ dig: 263 items (3 Cardinal, 260 Extra)
+ experimenter: EAB
+ highpass: 0.0 Hz
+ hpi_results: 1 item (list)
+ lowpass: 1200.0 Hz
+ meas_date: 2013-12-18 09:43:00 UTC
+ meas_id: 4 items (dict)
+ nchan: 340
+ projs: []
+ sfreq: 2400.0 Hz
+ subject_info: 1 item (dict)
+>

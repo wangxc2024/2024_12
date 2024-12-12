@@ -1,0 +1,8 @@
+dFmatnum_mex.mexw64
+dFmatnum		dFmatnum
+dFmatnum_atexit		dFmatnum_atexit
+dFmatnum_initialize		dFmatnum_initialize
+dFmatnum_terminate		dFmatnum_terminate
+emlrtMexFcnProperties		emlrtMexFcnProperties
+mexFunction		mexFunction
+mexfilerequiredapiversion		mexfilerequiredapiversion

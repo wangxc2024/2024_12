@@ -1,0 +1,9 @@
+LIBRARY odeDWM_mex.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+odeDWM_initialize
+odeDWM_terminate
+odeDWM_atexit
+odeDWM

@@ -1,0 +1,51 @@
+# CompilerName=lcc64
+# Mode=optim
+ninja_required_version = 1.3
+
+# Basic folders
+root = .
+builddir = $root\build\win64
+matlabdir = P:\Tools\matlab
+startdir = P:\Desktop\WM\mat
+
+# Toolchain information
+cc = lcc64
+cxx = 
+linker = lcclnk64
+linkerxx = 
+
+cflags =  -nodeclspec -Zp8 -dll -c -I"$matlabdir\sys\lcc64\lcc64\include64" -DMATLAB_MEX_FILE -noregistrylookup -DNDEBUG -I"$root" -I"$startdir" -I"$root\interface" -I"$matlabdir\extern\include" -I"." -DMODEL=dFmatnum_mex  
+
+cxxflags =  -I"$root" -I"$startdir" -I"$root\interface" -I"$matlabdir\extern\include" -I"." -DMODEL=dFmatnum_mex  
+
+ldflags =  -dll -L"$matlabdir\sys\lcc64\lcc64\lib64" -L"$matlabdir\extern\lib\win64\microsoft" -entry LibMain libmx.lib libmex.lib libmat.lib libemlrt.lib libcovrt.lib libut.lib libmwmathutil.lib -o dFmatnum_mex.mexw64 -s -L"$matlabdir\extern\lib\win64\microsoft" libmwblas.lib  dFmatnum_mex.def
+
+# Build Rules
+rule cc
+    command = $cc $cflags $in -Fo$out
+
+rule cxx
+    command = $cxx $cxxflags $in -Fo$out
+
+rule link
+    command = $linker $in $ldflags
+
+rule linkxx
+    command = $linkerxx $in $ldflags
+
+# Build
+build $builddir\rt_nonfinite.obj : cc $root\rt_nonfinite.c
+build $builddir\dFmatnum_data.obj : cc $root\dFmatnum_data.c
+build $builddir\dFmatnum_initialize.obj : cc $root\dFmatnum_initialize.c
+build $builddir\dFmatnum_terminate.obj : cc $root\dFmatnum_terminate.c
+build $builddir\dFmatnum.obj : cc $root\dFmatnum.c
+build $builddir\odeDWM.obj : cc $root\odeDWM.c
+build $builddir\mtimes.obj : cc $root\mtimes.c
+build $builddir\_coder_dFmatnum_api.obj : cc $root\interface\_coder_dFmatnum_api.c
+build $builddir\_coder_dFmatnum_mex.obj : cc $root\interface\_coder_dFmatnum_mex.c
+build $builddir\_coder_dFmatnum_info.obj : cc $root\interface\_coder_dFmatnum_info.c
+build $builddir\c_mexapi_version.obj : cc $matlabdir\extern\version\c_mexapi_version.c
+build $builddir\lccstub.obj : cc $matlabdir\sys\lcc64\lcc64\mex\lccstub.c
+
+# Link
+build $root\dFmatnum_mex.mexw64 : link $builddir\rt_nonfinite.obj $builddir\dFmatnum_data.obj $builddir\dFmatnum_initialize.obj $builddir\dFmatnum_terminate.obj $builddir\dFmatnum.obj $builddir\odeDWM.obj $builddir\mtimes.obj $builddir\_coder_dFmatnum_api.obj $builddir\_coder_dFmatnum_mex.obj $builddir\_coder_dFmatnum_info.obj $builddir\c_mexapi_version.obj $builddir\lccstub.obj 
