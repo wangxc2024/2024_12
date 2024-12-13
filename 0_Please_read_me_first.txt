@@ -1,4 +1,4 @@
-Hi Farzaneh, 
+Hi, 
 
 Here are a few files showcasing my coding work and a brief introduction to them:
 
@@ -14,12 +14,9 @@ This is part of code I wrote for analyzing the MEG data when I was in Vancouver 
 
 3. Machine Learning and Python
 
-This is the project I conducted for the "Machine Learning and Python" course. I made a program for image identification and classification, using CNN to identify the characteristics. 
-
-Prof. Fengfeng Zhou is the teacher of this course (https://scholar.google.com/citations?user=FL2GqPcAAAAJ&hl=en). He has written a recommendation letter for me. But I didn't ask him to submit his letter at GT. 
+This is the project I conducted for the "Machine Learning and Python" course. I made a program for image identification and classification, using CNN to identify the characteristics. Prof. Fengfeng Zhou is the teacher of this course (https://scholar.google.com/citations?user=FL2GqPcAAAAJ&hl=en). He has written a recommendation letter for me. But I didn't ask him to submit his letter at GT. 
 
 Let me know if you have any questions. I'm looking forward to talking more with you!
 
 Best, 
 Xiaochen
- 
