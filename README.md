@@ -4,7 +4,7 @@
 # Welcome to My Code Repository!
 
 Hello! This repository contains my coding projects, starting from my undergraduate years. It's just the beginning, and I plan to upload more code, add reference sources, and improve the documentation to make it more readable over time. 
-It is still not fully completed or easy to understand at this stage. So feel free to contact me at: wangxc1120@mails.jlu.edu.cn.
+It is still not easy to understand at this stage. So feel free to contact me at: wangxc1120@mails.jlu.edu.cn.
 
 ---
 
