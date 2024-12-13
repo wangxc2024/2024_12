@@ -3,7 +3,7 @@
 
 # Welcome to My Code Repository!
 
-Hello! This repository contains my coding projects, starting from my undergraduate years. It's just the beginning, and I plan to upload more code, add reference sources, and improve the documentation to make it more readable over time.
+Hello! This repository contains my coding projects, starting from my undergraduate years. It's just the beginning, and I plan to upload more code, add reference sources, and improve the documentation to make it more readable over time. It is still not easy to understand at this stage. So feel free to contact me at: wangxc1120@mails.jlu.edu.cn.
 
 ---
 
@@ -23,7 +23,7 @@ This is part of code I wrote for analyzing the MEG data when I was in Vancouver 
 
 ## 3. Image Identification and Classification
 
-This is the project I conducted for the "Machine Learning and Python" course. I created a program for image identification and classification, utilizing convolutional neural networks (CNNs) to identify key features.
+This is the project I conducted for the "Machine Learning and Python" course. I created a program for image identification and classification, utilizing convolutional neural networks (CNNs) to identify key features. Prof. Fengfeng Zhou is the teacher of this course (https://scholar.google.com/citations?user=FL2GqPcAAAAJ&hl=en).
 
 ---
 
