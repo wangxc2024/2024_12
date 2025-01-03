@@ -9,7 +9,7 @@ Hello! This repository contains my coding projects, starting from my undergradua
 
 ## 1. Cortical Network Dynamics and Thermodynamics
 
-This code was used for computation and analysis in my second paper: [https://doi.org/10.48550/arXiv.2411.17206](https://doi.org/10.48550/arXiv.2411.17206). The code is written in MATLAB.
+This code was used for computation and analysis in my second paper. The code is written in MATLAB.
 
 The main focus is on simulations using ordinary differential equations, function optimization based on first principles (similar to the training process in deep learning), statistical computation, and visualization.
 
